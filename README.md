@@ -284,10 +284,6 @@ Fast-loading optimized websites.
 
 ---
 
-<br>
-
----
-<br>
 <h2 align="center">🏆 Why Work With Me?</h2>
 <br>
 
