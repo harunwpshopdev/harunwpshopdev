@@ -248,7 +248,7 @@ Fast-loading optimized websites.
 </table>
 
 ---
-</br>
+<br>
 <div align="center">
 
 # 💻 Tech Stack
@@ -280,15 +280,16 @@ Fast-loading optimized websites.
 
 </div>
 
-</br>
+<br>
 
 ---
 
 <br>
 
 ---
-
+<br>
 <h2 align="center">🏆 Why Work With Me?</h2>
+<br>
 
 <table align="center" width="100%">
 <tr>
@@ -346,7 +347,7 @@ Reliable support & maintenance.
 </tr>
 </table>
 
-</br>
+<br>
 
 ---
 
