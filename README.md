@@ -84,28 +84,67 @@ WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • Jav
 
 ---
 
----
+<h2 align="center">⚡ What I Do</h2>
 
 <marquee behavior="scroll" direction="left" scrollamount="8">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="220" align="center">
 
-<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="70"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+### WordPress Development
 
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+Custom modern websites with clean design.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="220" align="center">
 
-<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="70"/>
+
+### Shopify Store
+
+High-converting Shopify stores.
+
+</td>
+
+<td width="220" align="center">
+
+<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>
+
+### Elementor Expert
+
+Pixel-perfect Elementor design.
+
+</td>
+
+<td width="220" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="70"/>
+
+### WooCommerce
+
+Professional eCommerce solutions.
+
+</td>
+
+<td width="220" align="center">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
+
+### Speed & SEO
+
+Fast-loading optimized websites.
+
+</td>
+
+</tr>
+</table>
 
 </marquee>
-
 ---
 
 <div align="center">
