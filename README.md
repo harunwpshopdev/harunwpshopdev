@@ -4,11 +4,11 @@
 
 <br><br>
 
-<img width="85%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Business+Websites;Creating+High+Converting+eCommerce+Stores;Elementor+%26+WooCommerce+Expert;SEO-Friendly+Responsive+Websites;Helping+Businesses+Grow+Online)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Modern+Business+Websites;Creating+High+Converting+eCommerce+Stores;Elementor+%26+WooCommerce+Expert;SEO-Friendly+Responsive+Websites;Helping+Businesses+Grow+Online)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,23 +16,27 @@
 
 <div align="center">
 
-### I Build Websites That Work for Your Business
+## I Build Websites That Work for Your Business
 
 WordPress & Shopify Developer focused on creating fast, modern, responsive, and high-converting websites for businesses worldwide.
 
 </div>
 
+<br>
+
 <table width="100%">
 <tr>
 <td width="100%">
 
-### About Me
+## About Me
 
 With 5+ years of experience and 320+ completed projects, I build fast, modern, responsive, and conversion-focused websites for businesses and entrepreneurs worldwide.
 
 I specialize in WordPress, Shopify, WooCommerce, landing pages, website migration, and custom website solutions that help businesses grow online professionally.
 
-### What I Specialize In
+<br>
+
+## What I Specialize In
 
 • WordPress Website Design & Development  
 • Shopify Store Design & Customization  
@@ -43,7 +47,9 @@ I specialize in WordPress, Shopify, WooCommerce, landing pages, website migratio
 • Speed Optimization & SEO  
 • Responsive Website Design  
 
-### Why Clients Work With Me
+<br>
+
+## Why Clients Work With Me
 
 • Clean and modern UI/UX design  
 • Fast-loading optimized websites  
@@ -51,9 +57,13 @@ I specialize in WordPress, Shopify, WooCommerce, landing pages, website migratio
 • Friendly communication and support  
 • On-time delivery with attention to detail  
 
-### Technologies & Tools
+<br>
+
+## Technologies & Tools
 
 WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • JavaScript • PHP • Figma
+
+<br><br>
 
 <div align="center">
 
@@ -69,16 +79,18 @@ WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • Jav
 
 ---
 
+<div align="center">
+
 # ⚡ What I Do
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="20%" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="65"/>
 
 ### WordPress Development
 
@@ -88,7 +100,7 @@ Custom modern websites with clean design.
 
 <td width="20%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="65"/>
 
 ### Shopify Store
 
@@ -98,7 +110,7 @@ High-converting Shopify stores.
 
 <td width="20%" align="center">
 
-<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>
+<img src="https://cdn.simpleicons.org/elementor/92003B" width="65"/>
 
 ### Elementor Expert
 
@@ -108,7 +120,7 @@ Pixel-perfect Elementor design.
 
 <td width="20%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="65"/>
 
 ### WooCommerce
 
@@ -118,7 +130,7 @@ Professional eCommerce solutions.
 
 <td width="20%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2092/2092063.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2092/2092063.png" width="65"/>
 
 ### Speed & SEO
 
@@ -137,7 +149,7 @@ Fast-loading optimized websites.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%">
@@ -263,28 +275,28 @@ Fast-loading optimized websites.
 
 <br>
 
-<img src="https://cdn.simpleicons.org/wordpress/21759B" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress/21759B" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/shopify/95BF47" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/shopify/95BF47" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=php" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="55"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50"/>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=figma" height="55"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
 
 </div>
 
@@ -292,12 +304,12 @@ Fast-loading optimized websites.
 
 <h2 align="center">🏆 Why Work With Me?</h2>
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/design.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/design.png" width="65"/>
 
 ### Modern Design
 
@@ -307,7 +319,7 @@ Clean, modern & professional UI design.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="65"/>
 
 ### Fast Delivery
 
@@ -317,7 +329,7 @@ Quick response & on-time delivery.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/monitor.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/monitor.png" width="65"/>
 
 ### Fully Responsive
 
@@ -327,7 +339,7 @@ Perfectly optimized for all devices.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/seo.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/seo.png" width="65"/>
 
 ### SEO Optimized
 
@@ -337,7 +349,7 @@ SEO-friendly structure & speed.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/customer-support.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/customer-support.png" width="65"/>
 
 ### Friendly Support
 
@@ -372,7 +384,7 @@ Reliable support & maintenance.
 <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
-<br><br>
+</div>
 
 ---
 
@@ -382,11 +394,9 @@ Reliable support & maintenance.
 
 [![Harun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harunwpshopdev&bg_color=020817&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/harunwpshopdev)
 
-</div>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=harunwpshopdev&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
----
 
 </div>
 
