@@ -16,8 +16,6 @@
 
 <div align="center">
 
-# Hello, I'm Harun
-
 ### I Build Websites That Work for Your Business
 
 WordPress & Shopify Developer focused on creating fast, modern, responsive, and high-converting websites for businesses worldwide.
