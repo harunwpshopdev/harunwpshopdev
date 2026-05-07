@@ -12,9 +12,6 @@
 
 <img width="85%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png" style="display:block; margin:0 auto; padding:0;"/>
 
-</div>
-
-
 <img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
 
 </div>
