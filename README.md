@@ -25,12 +25,18 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 ⭐ 5-Star Client Rating  
 🌍 Worldwide Clients  
 ⚡ 5+ Years Experience  
+
 <br>
+
+<a href="mailto:harundevop@gmail.com?subject=Project%20Inquiry&body=Hello%20Harun,%20I%20want%20to%20discuss%20a%20project%20with%20you." target="_blank">
+<img src="https://img.shields.io/badge/📩%20GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </td>
 
 <td width="45%" align="center" valign="middle">
 
-<img width="100%" src="https://raw.githubusercontent.com/haruntpicmt/haruntpicmt/main/banner.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
 
 </td>
 
@@ -152,7 +158,7 @@ Fast-loading optimized websites.
 
 <a href="https://weddingdoulamallorca.com" target="_blank">
 
-<img src="https://raw.githubusercontent.com/haruntpicmt/haruntpicmt/main/weddingdoula.webp" width="100%"/>
+<img src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/weddingdoula.webp" width="100%"/>
 
 </a>
 
@@ -260,16 +266,19 @@ Fast-loading optimized websites.
 
 </div>
 
-<!-- WHY WORK WITH ME -->
+---
+
 <h2 align="center">🏆 Why Work With Me?</h2>
 
 <table align="center">
 <tr>
+
 <td width="20%" align="center">
 
 <img src="https://img.icons8.com/fluency/96/design.png" width="70"/>
 
 ### Modern Design
+
 Clean, modern & professional UI design.
 
 </td>
@@ -279,6 +288,7 @@ Clean, modern & professional UI design.
 <img src="https://img.icons8.com/fluency/96/rocket.png" width="70"/>
 
 ### Fast Delivery
+
 Quick response & on-time delivery.
 
 </td>
@@ -288,6 +298,7 @@ Quick response & on-time delivery.
 <img src="https://img.icons8.com/fluency/96/monitor.png" width="70"/>
 
 ### Fully Responsive
+
 Perfectly optimized for all devices.
 
 </td>
@@ -297,6 +308,7 @@ Perfectly optimized for all devices.
 <img src="https://img.icons8.com/fluency/96/seo.png" width="70"/>
 
 ### SEO Optimized
+
 SEO-friendly structure & speed.
 
 </td>
@@ -306,9 +318,11 @@ SEO-friendly structure & speed.
 <img src="https://img.icons8.com/fluency/96/customer-support.png" width="70"/>
 
 ### Friendly Support
+
 Reliable support & maintenance.
 
 </td>
+
 </tr>
 </table>
 
@@ -338,7 +352,7 @@ Reliable support & maintenance.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=haruntpicmt&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harunwpshopdev&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
