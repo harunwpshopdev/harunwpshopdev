@@ -335,7 +335,7 @@ SEO-friendly structure & speed.
 
 <td width="20%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/customer-support.png" width="70"/>
 
 ### Friendly Support
 
