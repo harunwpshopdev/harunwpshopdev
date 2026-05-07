@@ -8,7 +8,9 @@
 
 </div>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:0B1026,100:2563EB&text=Harun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%7C%20Shopify%20Developer&descAlignY=60&descSize=22"/>
+
+<img width="85%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png" style="display:block; margin:0 auto; padding:0;"/>
 
 </div>
 
