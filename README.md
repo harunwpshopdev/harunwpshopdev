@@ -128,7 +128,7 @@ Professional eCommerce solutions.
 
 </td>
 
-<td width="220" align="center">
+<td width="20%" align="center">
 
 <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
 
