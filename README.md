@@ -22,8 +22,6 @@
 
 WordPress & Shopify Developer focused on creating fast, modern, responsive, and high-converting websites for businesses worldwide.
 
-</div>
-
 <table width="100%">
 <tr>
 <td width="100%">
@@ -34,8 +32,6 @@ With 5+ years of experience and 320+ completed projects, I help businesses build
 
 I specialize in creating fast, responsive, SEO-friendly, and conversion-focused websites that not only look professional but also help businesses grow online successfully.
 
-<br>
-
 ### Professional Information
 
 • Residence: Dhaka  
@@ -44,8 +40,6 @@ I specialize in creating fast, responsive, SEO-friendly, and conversion-focused 
 • Completed Projects: 320+  
 • Happy Clients: 200+  
 • Honors & Awards: 25+  
-
-<br>
 
 ### My Services
 
@@ -58,8 +52,6 @@ I specialize in creating fast, responsive, SEO-friendly, and conversion-focused 
 • Speed Optimization & SEO  
 • Responsive Website Design  
 
-<br>
-
 ### Why Clients Work With Me
 
 • Clean and modern UI/UX design  
@@ -68,19 +60,13 @@ I specialize in creating fast, responsive, SEO-friendly, and conversion-focused 
 • Friendly communication and support  
 • On-time delivery with attention to detail  
 
-<br>
-
 ### Technologies & Tools
 
 WordPress • Shopify • WooCommerce • Elementor Pro • Divi Builder • HTML • CSS • JavaScript • PHP • Figma
 
-<br>
-
 ### My Goal
 
 Build professional websites that help businesses attract more customers and grow successfully online.
-
-<br>
 
 <div align="center">
 
