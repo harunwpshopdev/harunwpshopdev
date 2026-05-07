@@ -325,7 +325,7 @@ Perfectly optimized for all devices.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/search-engine-optimization.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
 
 ### SEO Optimized
 
