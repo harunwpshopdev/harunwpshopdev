@@ -82,7 +82,7 @@ WordPress • Shopify • WooCommerce • Elementor Pro • Divi Builder • HTM
 
 Build professional websites that help businesses attract more customers and grow successfully online.
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -91,6 +91,8 @@ Build professional websites that help businesses attract more customers and grow
 </a>
 
 </div>
+
+---
 
 </td>
 </tr>
