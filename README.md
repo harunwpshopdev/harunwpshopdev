@@ -76,7 +76,7 @@ High-converting Shopify stores.
 
 <td width="20%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="70"/>
+<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>
 
 ### Elementor Expert
 
