@@ -6,8 +6,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
 
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Modern+Business+Websites;Creating+High+Converting+eCommerce+Stores;Elementor+%26+WooCommerce+Expert;SEO-Friendly+Responsive+Websites;Helping+Businesses+Grow+Online)](https://git.io/typing-svg)
 
 </div>
