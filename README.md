@@ -248,7 +248,7 @@ Fast-loading optimized websites.
 </table>
 
 ---
-
+</br>
 <div align="center">
 
 # 💻 Tech Stack
@@ -279,6 +279,8 @@ Fast-loading optimized websites.
 <img src="https://skillicons.dev/icons?i=figma" height="50"/>
 
 </div>
+
+</br>
 
 ---
 
