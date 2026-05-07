@@ -286,14 +286,16 @@ Fast-loading optimized websites.
 
 <br>
 
+---
+
 <h2 align="center">🏆 Why Work With Me?</h2>
 
-<table width="100%" align="center">
+<table align="center" width="100%">
 <tr>
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/design.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/design.png" width="70"/>
 
 ### Modern Design
 
@@ -303,7 +305,7 @@ Clean, modern & professional UI design.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="70"/>
 
 ### Fast Delivery
 
@@ -313,7 +315,7 @@ Quick response & on-time delivery.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/monitor.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/monitor.png" width="70"/>
 
 ### Fully Responsive
 
@@ -323,7 +325,7 @@ Perfectly optimized for all devices.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/seo.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/search-engine-optimization.png" width="70"/>
 
 ### SEO Optimized
 
@@ -333,7 +335,7 @@ SEO-friendly structure & speed.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/search-engine-optimization.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/customer-support.png" width="70"/>
 
 ### Friendly Support
 
