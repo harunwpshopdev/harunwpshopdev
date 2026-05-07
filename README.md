@@ -23,9 +23,7 @@
 WordPress & Shopify Developer focused on creating fast, modern, responsive, and high-converting websites for businesses worldwide.
 
 </div>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="100%">
