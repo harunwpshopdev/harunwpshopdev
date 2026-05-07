@@ -1,6 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:0B1026,100:2563EB&text=Harun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=WordPress%20%7C%20Shopify%20Developer%20%7C%20Helping%20Businesses%20Grow%20Online&descAlignY=60&descSize=24&descAlign=50"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:0B1026,100:2563EB&text=Harun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%7C%20Shopify%20Developer&descAlignY=60&descSize=22"/>
+
+<div style="margin-top:-55px;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+Modern+Business+Websites;Creating+High+Converting+eCommerce+Stores;Elementor+%26+WooCommerce+Expert;SEO-Friendly+Responsive+Websites;Helping+Businesses+Grow+Online)](https://git.io/typing-svg)
+
+</div>
+
+</div>
 
 
 <img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
