@@ -376,6 +376,18 @@ Reliable support & maintenance.
 
 <img src="https://komarev.com/ghpvc/?username=harunwpshopdev&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Harun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harunwpshopdev&bg_color=020817&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/harunwpshopdev)
+
+</div>
+
+---
+
 </div>
 
 ---
