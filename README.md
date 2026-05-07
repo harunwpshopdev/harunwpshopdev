@@ -14,8 +14,6 @@
 
 ---
 
----
-
 <div align="center">
 
 # Hello, I'm Harun
@@ -34,11 +32,9 @@ WordPress & Shopify Developer focused on creating fast, modern, responsive, and 
 
 ### About Me
 
-With 5+ years of experience and 320+ completed projects, I help businesses create professional online presence through high-quality WordPress and Shopify development.
+With 5+ years of experience and 320+ completed projects, I help businesses build professional online presence through modern WordPress and Shopify development.
 
-I specialize in building clean, modern, user-friendly, and SEO-optimized websites that not only look professional but also help businesses attract more customers and grow faster online.
-
-I focus on delivering pixel-perfect designs, responsive layouts, fast-loading performance, and smooth user experience for every project.
+I specialize in creating fast, responsive, SEO-friendly, and conversion-focused websites that not only look professional but also help businesses grow online successfully.
 
 <br>
 
@@ -59,37 +55,10 @@ I focus on delivering pixel-perfect designs, responsive layouts, fast-loading pe
 • Shopify Store Design & Customization  
 • WooCommerce Development  
 • Landing Page Design  
-• Portfolio Website Design  
 • PSD/Figma to WordPress  
 • Website Migration  
-• Custom Coding  
-• Speed Optimization  
-• SEO-Friendly Website Design  
-• Responsive & User-Friendly Design  
-
-<br>
-
-### WordPress Services
-
-I specialize in crafting modern and responsive WordPress websites that align perfectly with your business and brand identity. My focus is on creating clean and user-friendly designs that improve user experience and help businesses grow online successfully.
-
-<br>
-
-### Shopify Services
-
-I build and customize professional Shopify stores designed for high conversions and better customer experience. From custom design to product setup and optimization, I provide complete Shopify solutions for growing eCommerce businesses.
-
-<br>
-
-### Landing Page Design
-
-I design modern landing pages and portfolio websites using Elementor Pro, Divi Builder, and WPBakery. I also convert Figma or PSD designs into pixel-perfect WordPress websites that are responsive, lightweight, and performance-focused.
-
-<br>
-
-### WooCommerce Development
-
-I create powerful WooCommerce stores with complete store setup, product uploading, payment gateway integration, custom functionality, and speed optimization to help businesses sell products professionally online.
+• Speed Optimization & SEO  
+• Responsive Website Design  
 
 <br>
 
@@ -100,17 +69,6 @@ I create powerful WooCommerce stores with complete store setup, product uploadin
 • Pixel-perfect responsive layouts  
 • Friendly communication and support  
 • On-time delivery with attention to detail  
-• SEO-friendly structure and performance  
-• Business-focused website strategy  
-
-<br>
-
-### Client Feedback
-
-“Harun created my website and I am so happy with it. It looks beautiful and professional. He handled every change smoothly, stayed patient throughout the process, and guided me perfectly from start to finish.”
-
-— Michelle Pepper  
-Owner at Wedding Doula Mallorca
 
 <br>
 
@@ -122,7 +80,7 @@ WordPress • Shopify • WooCommerce • Elementor Pro • Divi Builder • HTM
 
 ### My Goal
 
-Build professional websites that help businesses improve their online presence, attract more customers, and grow successfully.
+Build professional websites that help businesses attract more customers and grow successfully online.
 
 <br><br>
 
@@ -133,6 +91,10 @@ Build professional websites that help businesses improve their online presence, 
 </a>
 
 </div>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
