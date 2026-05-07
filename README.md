@@ -253,13 +253,13 @@ Fast-loading optimized websites.
 
 <td width="50%" align="center">
 
-<a href="https://asianmedicalbd.com" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https://asianmedicalbd.com?w=900" width="100%"/>
+<a href="https://asianmedicalbd.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https://asianmedicalbd.com/?w=900" width="100%"/>
 </a>
 
 ### Asian Medical BD
 
-<a href="https://asianmedicalbd.com" target="_blank">
+<a href="https://asianmedicalbd.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
 </a>
 
@@ -285,13 +285,13 @@ Fast-loading optimized websites.
 
 <td width="50%" align="center">
 
-<a href="http://hutonthehedge.com/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/http://hutonthehedge.com/?w=900" width="100%"/>
+<a href="https://hutonthehedge.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https://hutonthehedge.com/?w=900" width="100%"/>
 </a>
 
 ### Hut On The Hedge
 
-<a href="http://hutonthehedge.com/" target="_blank">
+<a href="https://hutonthehedge.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
 </a>
 
@@ -299,13 +299,13 @@ Fast-loading optimized websites.
 
 <td width="50%" align="center">
 
-<a href="https://fiveelementsexperiences.com" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https://fiveelementsexperiences.com?w=900" width="100%"/>
+<a href="https://fiveelementsexperiences.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https://fiveelementsexperiences.com/?w=900" width="100%"/>
 </a>
 
 ### Five Elements Experiences
 
-<a href="https://fiveelementsexperiences.com" target="_blank">
+<a href="https://fiveelementsexperiences.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
 </a>
 
@@ -317,16 +317,19 @@ Fast-loading optimized websites.
 
 <td width="50%" align="center">
 
-<a href="https://imannetworkbd.com" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https://imannetworkbd.com?w=900" width="100%"/>
+<a href="https://imannetworkbd.com/" target="_blank">
+<img src="https://s.wordpress.com/mshots/v1/https://imannetworkbd.com/?w=900" width="100%"/>
 </a>
 
 ### Iman Network BD
 
-<a href="https://imannetworkbd.com" target="_blank">
+<a href="https://imannetworkbd.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
 </a>
 
+</td>
+
+<td width="50%" align="center">
 </td>
 
 </tr>
