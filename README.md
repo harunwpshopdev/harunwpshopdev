@@ -14,10 +14,7 @@
 
 ---
 
-<table width="100%">
-<tr>
-
-<td width="100%" valign="middle">
+<div align="left" width="100%">
 
 # 👋 Hi, I'm Harun
 
@@ -32,9 +29,9 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 🌍 Worldwide Clients  
 ⚡ 5+ Years Experience  
 
-<br>
+<br><br>
 
-### 💡 Services I Provide
+# 💡 Services I Provide
 
 ✔ PSD to WordPress  
 ✔ Figma to WordPress  
@@ -52,10 +49,7 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 <img src="https://img.shields.io/badge/📩%20GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
