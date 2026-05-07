@@ -152,7 +152,7 @@ Fast-loading optimized websites.
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="33.33%" align="center">
 
 <a href="https://carolinesiegrist.com/" target="_blank">
 <img src="https://s.wordpress.com/mshots/v1/https://carolinesiegrist.com?w=900" width="100%"/>
@@ -166,7 +166,7 @@ Fast-loading optimized websites.
 
 </td>
 
-<td width="50%" align="center">
+<td width="33.33%" align="center">
 
 <a href="http://thesocialoutlook.com.au/" target="_blank">
 <img src="https://s.wordpress.com/mshots/v1/http://thesocialoutlook.com.au?w=900" width="100%"/>
@@ -180,11 +180,7 @@ Fast-loading optimized websites.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="33.33%" align="center">
 
 <a href="https://weddingdoulamallorca.com" target="_blank">
 <img src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/weddingdoula.webp" width="100%"/>
@@ -198,7 +194,11 @@ Fast-loading optimized websites.
 
 </td>
 
-<td width="50%" align="center">
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center">
 
 <a href="https://dentalplanhub.com/" target="_blank">
 <img src="https://s.wordpress.com/mshots/v1/https://dentalplanhub.com/?w=900" width="100%"/>
@@ -212,11 +212,7 @@ Fast-loading optimized websites.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="33.33%" align="center">
 
 <a href="https://northernspotlights.co.uk" target="_blank">
 <img src="https://s.wordpress.com/mshots/v1/https://northernspotlights.co.uk?w=900" width="100%"/>
@@ -230,7 +226,7 @@ Fast-loading optimized websites.
 
 </td>
 
-<td width="50%" align="center">
+<td width="33.33%" align="center">
 
 <a href="https://goescapecampervans.com" target="_blank">
 <img src="https://s.wordpress.com/mshots/v1/https://goescapecampervans.com?w=900" width="100%"/>
