@@ -258,62 +258,6 @@ Fast-loading optimized websites.
 
 </a>
 
-<br>
-
-### Asian Medical BD
-
-<a href="https://asianmedicalbd.com" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="33%">
-
-<a href="https://ancienne-pharmacie.lu/" target="_blank">
-
-<img src="https://s.wordpress.com/mshots/v1/https://ancienne-pharmacie.lu/?w=900" width="100%"/>
-
-</a>
-
-<br>
-
-### Ancienne Pharmacie
-
-<a href="https://ancienne-pharmacie.lu/" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<br>
-
-### Five Elements Experiences
-
-<a href="https://fiveelementsexperiences.com" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="33%">
-
-<a href="https://imannetworkbd.com" target="_blank">
-
-<img src="https://s.wordpress.com/mshots/v1/https://imannetworkbd.com?w=900" width="100%"/>
-
-</a>
-
-<br>
-
-### Iman Network BD
-
-<a href="https://imannetworkbd.com" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
 </tr>
 
 </table>
