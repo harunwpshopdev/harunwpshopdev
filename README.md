@@ -24,8 +24,6 @@ WordPress & Shopify Developer focused on creating fast, modern, responsive, and 
 
 </div>
 
-<br>
-
 <table width="100%">
 <tr>
 <td width="100%">
@@ -35,8 +33,6 @@ WordPress & Shopify Developer focused on creating fast, modern, responsive, and 
 With 5+ years of experience and 320+ completed projects, I build fast, modern, responsive, and conversion-focused websites for businesses and entrepreneurs worldwide.
 
 I specialize in WordPress, Shopify, WooCommerce, landing pages, website migration, and custom website solutions that help businesses grow online professionally.
-
-<br>
 
 ### What I Specialize In
 
@@ -49,8 +45,6 @@ I specialize in WordPress, Shopify, WooCommerce, landing pages, website migratio
 • Speed Optimization & SEO  
 • Responsive Website Design  
 
-<br>
-
 ### Why Clients Work With Me
 
 • Clean and modern UI/UX design  
@@ -59,13 +53,9 @@ I specialize in WordPress, Shopify, WooCommerce, landing pages, website migratio
 • Friendly communication and support  
 • On-time delivery with attention to detail  
 
-<br>
-
 ### Technologies & Tools
 
 WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • JavaScript • PHP • Figma
-
-<br>
 
 <div align="center">
 
@@ -80,14 +70,6 @@ WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • Jav
 </table>
 
 ---
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
 
 # ⚡ What I Do
 
