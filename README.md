@@ -14,7 +14,9 @@
 
 ---
 
-<div align="left" width="100%">
+---
+
+<div align="left">
 
 # 👋 Hi, I'm Harun
 
@@ -51,6 +53,7 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 
 </div>
 
+---
 ---
 
 <div align="center">
