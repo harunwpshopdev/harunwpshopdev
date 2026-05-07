@@ -22,35 +22,34 @@
 
 WordPress & Shopify Developer focused on creating fast, modern, responsive, and high-converting websites for businesses worldwide.
 
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
 <td width="100%">
 
 ### About Me
 
-With 5+ years of experience and 320+ completed projects, I help businesses build professional online presence through modern WordPress and Shopify development.
+With 5+ years of experience and 320+ completed projects, I build fast, modern, responsive, and conversion-focused websites for businesses and entrepreneurs worldwide.
 
-I specialize in creating fast, responsive, SEO-friendly, and conversion-focused websites that not only look professional but also help businesses grow online successfully.
+I specialize in WordPress, Shopify, WooCommerce, landing pages, website migration, and custom website solutions that help businesses grow online professionally.
 
-### Professional Information
+<br>
 
-• Residence: Dhaka  
-• City: Tangail  
-• Experience: 5+ Years  
-• Completed Projects: 320+  
-• Happy Clients: 200+  
-• Honors & Awards: 25+  
-
-### My Services
+### What I Specialize In
 
 • WordPress Website Design & Development  
 • Shopify Store Design & Customization  
 • WooCommerce Development  
-• Landing Page Design  
 • PSD/Figma to WordPress  
+• Landing Page Design  
 • Website Migration  
 • Speed Optimization & SEO  
 • Responsive Website Design  
+
+<br>
 
 ### Why Clients Work With Me
 
@@ -60,13 +59,13 @@ I specialize in creating fast, responsive, SEO-friendly, and conversion-focused 
 • Friendly communication and support  
 • On-time delivery with attention to detail  
 
+<br>
+
 ### Technologies & Tools
 
-WordPress • Shopify • WooCommerce • Elementor Pro • Divi Builder • HTML • CSS • JavaScript • PHP • Figma
+WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • JavaScript • PHP • Figma
 
-### My Goal
-
-Build professional websites that help businesses attract more customers and grow successfully online.
+<br>
 
 <div align="center">
 
@@ -75,6 +74,10 @@ Build professional websites that help businesses attract more customers and grow
 </a>
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
