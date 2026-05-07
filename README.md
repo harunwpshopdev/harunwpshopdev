@@ -17,7 +17,7 @@
 <table>
 <tr>
 
-<td width="55%" valign="middle">
+<td width="100%" valign="middle">
 
 # 👋 Hi, I'm Harun
 
@@ -34,15 +34,23 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 
 <br>
 
+### 💡 Services I Provide
+
+✔ PSD to WordPress  
+✔ Figma to WordPress  
+✔ Shopify Store Design  
+✔ WooCommerce Development  
+✔ Website Migration  
+✔ Custom Coding  
+✔ Speed Optimization  
+✔ SEO-Friendly Design  
+✔ Fully Responsive Websites  
+
+<br>
+
 <a href="mailto:harundevop@gmail.com?subject=Project%20Inquiry&body=Hello%20Harun,%20I%20want%20to%20discuss%20a%20project%20with%20you." target="_blank">
 <img src="https://img.shields.io/badge/📩%20GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img width="100%" src="https://raw.githubusercontent.com/harunwpshopdev/harunwpshopdev/main/banner.png"/>
 
 </td>
 
