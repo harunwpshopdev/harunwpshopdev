@@ -84,18 +84,18 @@ WordPress • Shopify • WooCommerce • Elementor Pro • HTML • CSS • Jav
 
 ---
 
-<div align="center">
+---
 
-# ⚡ What I Do
+<h2 align="center">⚡ What I Do</h2>
 
-</div>
+<marquee behavior="scroll" direction="left" scrollamount="8">
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="20%" align="center">
+<td width="220" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="65"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="70"/>
 
 ### WordPress Development
 
@@ -103,9 +103,9 @@ Custom modern websites with clean design.
 
 </td>
 
-<td width="20%" align="center">
+<td width="220" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="65"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" width="70"/>
 
 ### Shopify Store
 
@@ -113,9 +113,9 @@ High-converting Shopify stores.
 
 </td>
 
-<td width="20%" align="center">
+<td width="220" align="center">
 
-<img src="https://cdn.simpleicons.org/elementor/92003B" width="65"/>
+<img src="https://cdn.simpleicons.org/elementor/92003B" width="70"/>
 
 ### Elementor Expert
 
@@ -123,9 +123,9 @@ Pixel-perfect Elementor design.
 
 </td>
 
-<td width="20%" align="center">
+<td width="220" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="65"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="70"/>
 
 ### WooCommerce
 
@@ -133,9 +133,9 @@ Professional eCommerce solutions.
 
 </td>
 
-<td width="20%" align="center">
+<td width="220" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2092/2092063.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
 
 ### Speed & SEO
 
@@ -145,6 +145,8 @@ Fast-loading optimized websites.
 
 </tr>
 </table>
+
+</marquee>
 
 ---
 
