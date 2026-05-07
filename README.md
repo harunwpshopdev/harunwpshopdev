@@ -282,6 +282,8 @@ Fast-loading optimized websites.
 
 ---
 
+<br>
+
 <h2 align="center">🏆 Why Work With Me?</h2>
 
 <table width="100%" align="center">
@@ -339,6 +341,8 @@ Reliable support & maintenance.
 
 </tr>
 </table>
+
+</br>
 
 ---
 
