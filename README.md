@@ -333,7 +333,7 @@ SEO-friendly structure & speed.
 
 <td width="20%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/customer-support.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/search-engine-optimization.png" width="70"/>
 
 ### Friendly Support
 
