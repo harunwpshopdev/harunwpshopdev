@@ -48,7 +48,7 @@ I build fast, modern, responsive and SEO-friendly websites that help businesses 
 <br>
 
 <a href="mailto:harundevop@gmail.com?subject=Project%20Inquiry&body=Hello%20Harun,%20I%20want%20to%20discuss%20a%20project%20with%20you." target="_blank">
-<img src="https://img.shields.io/badge/📩%20GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
