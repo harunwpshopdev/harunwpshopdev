@@ -188,7 +188,7 @@ Fast-loading optimized websites.
 
 <td width="50%" align="center">
 <a href="https://weddingdoulamallorca.com" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https://weddingdoulamallorca.com/?w=900" width="100%"/>
+<img src="https://api.microlink.io/?url=https://weddingdoulamallorca.com&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&scroll=false" width="100%"/>
 </a>
 
 ### Wedding Doula Mallorca
