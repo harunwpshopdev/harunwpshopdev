@@ -34,7 +34,7 @@ WordPress & Shopify Developer focused on creating fast, modern, responsive, and 
 
 With 5+ years of experience and 320+ completed projects, I build fast, modern, responsive, and conversion-focused websites for businesses and entrepreneurs worldwide.
 
-I specialize in WordPress, Shopify, WooCommerce, landing pages, website migration, and custom website solutions that help businesses grow online professionally.
+I help small businesses and eCommerce brands build fast, clean, high-converting WordPress and Shopify websites that turn visitors into customers.
 
 <br>
 
