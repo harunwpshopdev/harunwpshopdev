@@ -39,8 +39,8 @@ I help small businesses and eCommerce brands build fast, clean, high-converting 
 <br>
 
 ✅ 320+ projects delivered<br>
-✅ 5-star client rating
-✅ WordPress, Shopify, WooCommerce & Elementor
+✅ 5-star client rating<br>
+✅ WordPress, Shopify, WooCommerce & Elementor<br>
 ✅ Business websites, eCommerce stores, landing pages & redesigns
 
 <br>
