@@ -37,17 +37,10 @@ With 5+ years of experience and 320+ completed projects, I build fast, modern, r
 I help small businesses and eCommerce brands build fast, clean, high-converting WordPress and Shopify websites that turn visitors into customers.
 
 <br>
-
-## What I Specialize In
-
-• WordPress Website Design & Development  
-• Shopify Store Design & Customization  
-• WooCommerce Development  
-• PSD/Figma to WordPress  
-• Landing Page Design  
-• Website Migration  
-• Speed Optimization & SEO  
-• Responsive Website Design  
+✅ 320+ projects delivered
+✅ 5-star client rating
+✅ WordPress, Shopify, WooCommerce & Elementor
+✅ Business websites, eCommerce stores, landing pages & redesigns
 
 <br>
 
